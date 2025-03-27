@@ -123,6 +123,35 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
+
+---
+
+### Last steps evidence
+
+To demonstrate that the final steps where well done, here are the screenshots of the console, and the final result:
+
+![Docker Login](docs/images/docker_login.png)
+
+_Login en docker_
+
+![Pull packages](docs/images/pull_packages.png)
+
+_Pull Packages_
+
+![Images](docs/images/docker_images.png)
+
+_Docker Images_
+
+![Docker run](docs/images/docker_run.png)
+
+_Run_
+
+![Final result](docs/images/result.png)
+
+_Result_
+
+---
+
 <footer>
 
 <!--
